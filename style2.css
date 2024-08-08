@@ -1,0 +1,289 @@
+.cont1{
+   border-radius: 5px;
+    border: solid 5px black;
+    height: 100px;
+    width 130px;
+   text-align: center;
+    font-family: sans-serif;
+background-color: black;
+    color: white;
+    
+}
+
+.parent{
+    
+   display: inline-block;
+    
+    
+}
+
+.rellenito{
+        
+        color:whitesmoke;
+        
+    }
+    
+    header{
+        
+        font-family: monospace;
+        text-align: center;
+        border-radius: 5px;
+        border: solid 5px black;
+        background-color: black;
+        position: fixed;
+        width: 1420px;
+        color: white;
+        
+    }
+
+ body{
+        
+        background-color: white; 
+     color:black;
+        
+        
+     
+    }
+
+
+
+.Carlos{
+   border-radius: 5px;
+    border: solid 5px black;
+    height: 100px;
+    width 130px;
+   text-align: center;
+    font-family: sans-serif;
+background-color: black;
+    color: white;
+    
+}
+
+.sub1{
+    color:dimgray;
+    font-family: sans-serif;
+    text-align: center;
+    font-style: italic;
+}
+
+/*voy*/
+
+    header{
+        
+        font-family: monospace;
+        text-align: center;
+        border-radius: 5px;
+        border: solid 5px black;
+        background-color: black;
+        color: white;
+    }
+
+
+    body{
+        
+        background-color: whitesmoke;
+        
+        
+    }
+
+
+
+    header{
+        color: white;
+        border: solid 5px black;
+        text-align: center;
+        font-family: monospace;
+        background:black;
+        position:fixed;
+        width: 1420px;
+        font-style: italic;
+        border-radius: 5px;
+       
+    }
+
+  
+    .sebas{
+        font-family: monospace;
+        text-align: left;
+        border: dashed 5px black;
+    }
+    
+    .rellenito{
+        
+        color:whitesmoke;
+        
+    }
+    
+    .titulos{
+        
+       font-family: sans-serif;
+        font-style: italic;
+        text-align: center;
+        
+        
+    }
+    
+    .ft{
+        text-align: center;
+        font-style: italic;
+        font-family: sans-serif;
+        border: solid 5px black;
+         background: black;
+        color:white;
+       
+        
+        
+    }
+    
+    .container1{
+        
+        background:black;
+        border: solid 4px black;
+        font-family: sans-serif;
+        color: whitesmoke;
+        
+    
+    }
+    
+    .dway{
+        
+         width: 300px;
+  height: 320px;
+  border: dashed 5px black;
+        font-family: sans-serif;
+        color: black;
+        border-radius: 25px;
+        
+    }
+    
+     .nh{
+        
+         width: 300px;
+  height: 320px;
+  border: dashed 5px black;
+        font-family: sans-serif;
+        color: black;
+         float: right;
+         border-radius: 25px;
+        
+    }
+    
+    .skater{
+        
+         display: flex;
+    justify-content: center;
+    }
+    
+    nav{
+        
+        font-family: monospace;
+        
+    }
+  
+.icon1{
+   float:left; 
+    
+    
+    
+}
+
+.s1{
+   color:black;
+    font-family: sans-serif;
+    text-align: center;
+    
+}
+
+.sponsors{
+    font-family: sans-serif;
+    text-align: left;
+    color:black;
+    font-size: 2em;
+    
+    
+    
+}
+
+.headings{
+    text-align: center;
+    font-style: italic;
+    font-size: 2em;
+    color:black;
+    
+    
+    
+}
+
+.street{
+    
+font-family: sans-serif;
+    
+    text-align: left;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.headings1{
+    text-align: left;
+    font-family: monospace;
+    font-size: 4em;
+    font-style: italic;
+    color:black;
+    
+    
+}
+
+.ps{
+    border: solid 5px black;
+    width:563px;
+    color:black;
+    display: block;
+    
+    
+    
+    
+}
+
+.nh1{
+  
+    text-align: left;
+    font-family: sans-serif;
+    color:black;
+    display: inline-block;
+    
+    
+}
+
+.ar1{
+  
+    text-align: left;
+    font-family: sans-serif;
+    color:black;
+    float: right;
+    
+    
+}
+
+.DepartmentSection{
+ border: solid 5px black;
+    border-radius:5px;
+    box-shadow: 10px 5px 5px black;
+    height:1400px;
+    float:right;
+}
+
+.t1d{
+   font-family: sans-serif;
+    font-size: 1em;
+    color:black;
+    
+}
+
+.gb{
+   border-radius:5px;
+    border: solid 5px black;
+    font-family: sans-serif; 
+    
+}
+
